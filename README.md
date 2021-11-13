@@ -3,8 +3,6 @@
 ![I am GitHub Readme Generator's creator](https://media-exp1.licdn.com/dms/image/C5603AQEcmHVMPx2iBw/profile-displayphoto-shrink_400_400/0/1619728584912?e=1637798400&v=beta&t=LoSUvp2ASMCDvzoWLZBvybIks_w3DIMaf7U-lvRRcQM)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shaikat1952&label=Profile%20views&color=0e75b6&style=flat" alt="shaikat1952" /> </p>
 
-<p align="left"> <a href="https://media-exp1.licdn.com/dms/image/C5603AQE4Pe3Y__N_Ig/profile-displayphoto-shrink_400_400/0/1636786386012?e=1642032000&v=beta&t=PqrqUD1xbkaCn62WngJAzeA8OtiUyq62TaIvsU3MdXs /></a> </p>
-
 - 🔭 I’m currently working on **Hospital Management System**
 
 - 🌱 I’m currently learning **React**
