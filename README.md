@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shaikat</h1>
 
-![I am GitHub Readme Generator's creator](https://media-exp1.licdn.com/dms/image/C5603AQEcmHVMPx2iBw/profile-displayphoto-shrink_400_400/0/1619728584912?e=1637798400&v=beta&t=LoSUvp2ASMCDvzoWLZBvybIks_w3DIMaf7U-lvRRcQM)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shaikat1952&label=Profile%20views&color=0e75b6&style=flat" alt="shaikat1952" /> </p>
 
 - 🔭 I’m currently working on **Hospital Management System**
 
