@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shaikat</h1>
-<img align="center" alt="website" title="website" width="300" height="300" hspace="5" src="./linkedin.jpg" />
+<img align="center" alt="website" title="website" width="543" height="491" hspace="5" src="./linkedin.jpg" />
 
 - 🔭 I’m currently working on **Hospital Management System**
 
