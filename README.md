@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **Hospital Management System**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Laravel**
 
-- 💬 Ask me about **HTML,CSS,JavaScript,Bootstrap**
+- 💬 Ask me about **HTML,CSS,JavaScript,Bootstrap,MySQL,PHP**
 
 - 📫 How to reach me **cse.200101057@gmail.com**
 
